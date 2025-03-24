@@ -1,5 +1,7 @@
 body {
     padding-bottom: 20px;
+    font-family: 'Marvel', serif !important;
+    font-size: 1.5em !important;
 } 
 .navbar {
     margin: 20px;
